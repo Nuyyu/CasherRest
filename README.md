@@ -18,7 +18,7 @@ Follow these steps to get started with CasherRegister:
 - Install dependencies: npm install
 - Run the application: npm start
 - How to Contribute
-- We welcome contributions! If you'd like to contribute to CasherRegister, please follow our Contribution Guidelines.
+We welcome contributions! If you'd like to contribute to Casher-Res, please follow our Contribution Guidelines.
 
 
 # Contact 
