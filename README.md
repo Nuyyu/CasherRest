@@ -1,8 +1,8 @@
-# Casher-Res: Efficient Cash Register System
+# Casher: Efficient Cash Register System
 
 
 # Overview
-Casher-Res is a robust and efficient cash register system designed to streamline your point-of-sale transactions. Manage sales, track inventory, and enhance customer experiences with our feature-rich solution Based on.
+Casher is a robust and efficient cash register system designed to streamline your point-of-sale transactions. Manage sales, track inventory, and enhance customer experiences with our feature-rich solution Based on.
 
 
 # Key Features
@@ -13,13 +13,13 @@ Customizable Receipts: Tailor receipts to reflect your brand and provide a perso
 
 
 # Getting Started
-Follow these steps to get started with Casher-Res:
+Follow these steps to get started with Casher:
 - Clone the repository: git clone https://github.com/howsy/CasherRegester.git
 - Install dependencies: npm install
 - Run the application: npm start
 - How to Contribute
 
-We welcome contributions! If you'd like to contribute to Casher-Res, please follow our Contribution Guidelines.
+We welcome contributions! If you'd like to contribute to Casher, please follow our Contribution Guidelines.
 
 
 # Contact 
