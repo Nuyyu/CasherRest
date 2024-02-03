@@ -13,7 +13,7 @@ Customizable Receipts: Tailor receipts to reflect your brand and provide a perso
 
 
 # Getting Started
-Follow these steps to get started with CasherRegister:
+Follow these steps to get started with Casher-Res:
 - Clone the repository: git clone https://github.com/howsy/CasherRegester.git
 - Install dependencies: npm install
 - Run the application: npm start
